@@ -1,0 +1,28 @@
+🔒 Task 5: Cybersecurity Awareness & Threat Mitigation
+Role: Student Digital Ambassador
+
+Objective: Identifying, analyzing, and neutralizing financial cyber threats in the Indian digital ecosystem.
+
+📋 Overview
+In an increasingly digitized academic environment, cybersecurity is a fundamental pillar of digital literacy. As the Student Digital Ambassador, I have developed this resource to address the rising tide of UPI and Online Payment Fraud. This task involves a critical analysis of social engineering tactics and the creation of a localized safety framework for the student community.
+
+🔍 Part A: Case Study – The UPI "Request Money" Scam
+This folder includes casestudy.md, a detailed 250-word analysis of QR code-based financial fraud.
+
+The Crime: A social engineering attack where victims are tricked into entering their UPI PIN under the guise of receiving a "scholarship refund" or "prize."
+
+Mechanism: Step-by-step breakdown of how scammers transition from a "Hook" (fake urgency) to the "Execution" (unauthorized debit).
+
+Impact: Financial loss and the erosion of digital trust among students.
+
+🛡️ Part B: 'Stay Safe Online' Checklist
+The prevention-checklist.md file provides 8 actionable security measures specifically curated for college students in India.
+
+Key Highlights: Strict UPI PIN protocols, Two-Factor Authentication (2FA) for social media, and verifying "HTTPS" on academic portals.
+
+Reporting Channels: Includes the National Cyber Crime Portal (cybercrime.gov.in) and the 1930 Helpline for immediate incident reporting.
+
+📂 Repository Contents
+casestudy.md: Analysis of modern financial cybercrime.
+
+prevention-checklist.md: 8 actionable safety tips for the student body.
